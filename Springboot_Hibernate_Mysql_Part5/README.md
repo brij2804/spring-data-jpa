@@ -1,6 +1,9 @@
 ## modules
 - springboot-hibernate-h2
 
-This project contains advanced level code of hibernate jpa and springboot.
-
-JPQL , Annotations, Native Query, Relations
+This project contains following concepts of hibernate jpa and springboot.
+### Tech Stack
+- JPQL  
+- Annotations 
+- Native Query 
+- Relations

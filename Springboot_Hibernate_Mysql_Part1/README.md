@@ -10,4 +10,6 @@ All we had to do is create datasource properties in application.properties file.
 - spring-boot-starter-actuator
 - spring-boot-starter-data-jpa
 - spring-boot-devtools
-- mysql-connector-java: 
+- mysql-connector-java
+- hibernate
+- mysql 
